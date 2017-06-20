@@ -1,7 +1,9 @@
 body {
 	background-color: #232323;
 	margin: 0;
-	font-family: "Montserrat", "Avenir";
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Patrick Hand SC', cursive;
+	text-transform: uppercase;
 }
 
 .square {
@@ -29,7 +31,6 @@ h1 {
 	color: white;
 	background: steelblue;
 	margin: 0;
-	text-transform: uppercase;
 	padding: 20px 0;
 }
 
